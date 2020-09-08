@@ -35,7 +35,7 @@ Regression algorithms used:
 * KNeighborsRegressor
 * AdaBoostRegressor
 
-The dimensionality reduction methods used:
+Dimensionality reduction methods used:
 * Principal Component Analysis (PCA)
 * Recursive Feature Elimination (RFE) with estimator svm.SVR
 * Recursive Feature Elimination (RFE) with estimator LinearRegression
