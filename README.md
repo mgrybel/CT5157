@@ -12,7 +12,8 @@ Demonstrated data preprocessing that included cleaning, feature extraction and s
 Clustering and manifold learning - the `Loans` dataset. <br />
 Clustering algorithms used: 
 * K-Means Clustering
-* Birch Clustering
+* Birch Clustering 
+<br />
 Manifold learning techniques used:
 * Multidimensional scaling (MDS)
 * T-distributed Stochastic Neighbor Embedding (t-SNE)
