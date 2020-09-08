@@ -1,15 +1,15 @@
 This repository contains all projects I prepared for the **CT5157 Data Mining** module at the **NUIG**. 
 
 ## Project 1
-The Exploratory Data Analysis (EDA) of the `Bank` dataset containing data related to direct marketing campaigns of a Portuguese banking institution. The EDA was performed to determine whether a bank customer would subscribe a term deposit or not.  
+The Exploratory Data Analysis (EDA) of the `Bank` dataset containing data related to direct marketing campaigns of a Portuguese banking institution. The EDA was performed to determine whether a bank customer would subscribe a term deposit or not. <br />
 Demonstrated univariate and multivariate analysis of numerical and categorical attributes.
 
 ## Project 2
-Preparation of the data in the `Bank` dataset.  
+Preparation of the data in the `Bank` dataset. <br />
 Demonstrated data preprocessing that included cleaning, feature extraction and selection, preprocessing and encoding of the categorical features, missing data imputation, scaling data with outliers using the RobustScaler.
 
 ## Project 3
-Clustering and manifold learning - the `Loans` dataset.  
+Clustering and manifold learning - the `Loans` dataset. <br />
 Clustering algorithms used: 
 * K-Means Clustering
 * Birch Clustering
