@@ -28,12 +28,13 @@ The comparison of binary classifiers on the `Wheat Seeds` dataset. Classifiers u
 * AdaBoost
 
 ## Project 5
-Regression and dimensionality reduction - the `Wine Quality White` dataset.  
+Regression and dimensionality reduction - the `Wine Quality White` dataset. <br />
 Regression algorithms used:
 * RandomForestRegressor
 * LinearRegression
 * KNeighborsRegressor
 * AdaBoostRegressor
+
 The dimensionality reduction methods used:
 * Principal Component Analysis (PCA)
 * Recursive Feature Elimination (RFE) with estimator svm.SVR
