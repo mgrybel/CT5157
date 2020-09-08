@@ -13,10 +13,11 @@ Clustering and manifold learning - the `Loans` dataset. <br />
 Clustering algorithms used: 
 * K-Means Clustering
 * Birch Clustering 
-<br />
+
 Manifold learning techniques used:
 * Multidimensional scaling (MDS)
 * T-distributed Stochastic Neighbor Embedding (t-SNE)
+
 Demonstrated selecting the optimal number of clusters using the Elbow Method and the Silhouette Method.
 
 ## Project 4
